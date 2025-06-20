@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body{
+	background-image: url("/img/imgHome.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0px;
+	padding: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.homeFrame {
+	width: 1500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.bodyFrame {
+	width: 1500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.inputFrame {
+	width: 1500px;
+}
+
+.inputInfoFrame {
+	width: 300px;
+}
+
+.footerFrame {
+	width: 1500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#join {
+	color: #fff;
+}
+
+#searchAccount {
+	color: #fff;
+}
