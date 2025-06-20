@@ -2,4 +2,4 @@
 
 2023년 6월 ~ 2023년 12월
 
-https://koreate.net/
+직업학교 소개 : https://koreate.net/
