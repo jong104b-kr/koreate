@@ -6,6 +6,6 @@
 
 포트폴리오 링크(네이버 마이박스)
 
-1번째 : https://naver.me/5AgMvHqT
+1번째(커뮤니티 게시판) : https://naver.me/5AgMvHqT
 
-2번째 : https://naver.me/GkUiWAgC
+2번째(쇼핑몰) : https://naver.me/GkUiWAgC
